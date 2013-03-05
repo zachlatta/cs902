@@ -9,4 +9,5 @@ FOR I = 0 TO peopleCount
     NEXT I
 
 PRINT  "The total salary is $" + str$(total)
-end
+
+END
