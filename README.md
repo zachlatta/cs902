@@ -1,4 +1,4 @@
-west-la
+cs902
 =======
 
-Assignments from computer science courses taken at West LA College.
+Assignments from CS902 at West LA College.
