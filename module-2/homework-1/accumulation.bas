@@ -1,5 +1,3 @@
-nomainwin
-
 peopleCount = 4
 
 FOR I = 0 TO peopleCount
