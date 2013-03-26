@@ -1,5 +1,3 @@
-nomainwin
-
 examCount = 3
 
 FOR I = 0 TO examCount
