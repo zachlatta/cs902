@@ -1,5 +1,3 @@
-nomainwin
-
 stateTax = 0.05
 
 PRINT "Please enter the employee's name: "
