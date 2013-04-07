@@ -11,4 +11,3 @@ for i = 0 to 10
 next i
 
 print "The smallest number is " + str$(smallest)
-
